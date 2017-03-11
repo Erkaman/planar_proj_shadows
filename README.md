@@ -4,7 +4,7 @@ Demo of Planar Projected Shadows implemented with [regl](https://github.com/miko
 
 ![](img.jpg)
 
-[Demo here](https://erkaman.github.io/regl-fire/fire.html)
+[Demo here](https://erkaman.github.io/planar_proj_shadows/planar_proj_shadows.html)
 
 # Implementation Details
 
